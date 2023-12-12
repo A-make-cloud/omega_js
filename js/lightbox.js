@@ -15,7 +15,7 @@
                   alt>
                 <h5 id="store-item-name">${name}</h5>
                 <h5 class="store-item-value"> <strong id="store-item-price"
-                    class="font-weight-bold">${price}</strong></h5>
+                    class="font-weight-bold">$ ${price}</strong></h5>
                 <span class="store-item-icon">
                   <i class="fas fa-shopping-cart"></i>
                 </span>

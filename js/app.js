@@ -181,39 +181,7 @@
     })
   }
   clearCart()
-  /*
-    function clearItemCart() {
-      let checkboxCase = document.querySelectorAll(".input-checkbox")
-      let checkboxInput = document.querySelector("#input-checkbox")
-      let btnRemove = document.querySelectorAll("button>.remove-prod")
-      let btnRemoveInput = document.querySelector("#remove-prod")
-      //console.log(checkboxCase);
-      //  checkboxCase = [...checkboxCase]
-      //console.log(checkboxCase);
-  
-      // alert('checked  function')
-  
-      checkboxCase.forEach(chec => {
-        chec.addEventListener('click', () => {
-  
-          if (checkboxCase.checked = true) {
-  
-            alert('checked')
-          }
-  
-        })
-      })
-      btnRemove.forEach(rem => {
-        rem.addEventListener('click', () => {
-          alert('rel')
-          // rem.style.display = 'none'
-        })
-  
-      })
-  
-    }
-    clearItemCart()
-  */
+
   function addLocalStorage() {
     // let products = localStorage.setItem('nam', 'cake')
   }
