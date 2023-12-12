@@ -7,16 +7,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.3.1/css/all.min.css"
-      integrity="sha512-KulI0psuJQK8UMpOeiMLDXJtGOZEBm8RZNTyBBHIWqoXoPMFcw+L5AEo0YMpsW8BfiuWrdD1rH6GWGgQBF59Lg=="
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
       crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- bootstrap css -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
     <!-- main css -->
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
 
     <!-- font awesome -->
-    <link rel="stylesheet" href="/css/all.css">
+    <!-- <link rel="stylesheet" href="./css/all.css"> -->
     <title>Omega Project</title>
     <style>
   </style>
@@ -28,7 +28,7 @@
       <!-- navbar  -->
 
       <nav class="navbar navbar-expand-lg px-4">
-        <a class="navbar-brand" href="#"><img src="/images/logo.png"
+        <a class="navbar-brand" href="#"><img src="./images/logo.png"
             width="50" alt></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse"
           data-target="#myNav">
@@ -88,7 +88,11 @@
             </div>
             <!--end of  cart item -->
             <!-- cart total -->
-            <div id="total-cart-all" class="total-cart-all">Total Ttc: </div>
+
+            <div id="total-cart-all" class="total-cart-all d-flex">Total
+              Ttc:&nbsp;&nbsp;
+              <h5
+                id="store-item-price"></h5> </div>
 
             <!--end cart total -->
             <!-- cart buttons -->
@@ -128,7 +132,7 @@
           </div>
           <div class="col-10 mx-auto col-md-6 align-self-center my-5">
             <div class="about-img__container">
-              <img src="/images/all3.jpg" class="../img-fluid" alt>
+              <img src="./images/all3.jpg" class="../img-fluid" alt>
             </div>
           </div>
         </div>
@@ -137,7 +141,7 @@
 
     <!-- end of about us -->
 
-    <!-- store -->
+    <!-- store products-->
     <section id="store" class="store py-5">
       <div class="container">
         <!-- section title -->
@@ -178,23 +182,19 @@
                   <span class="input-group-text search-box" id="search-icon"><i
                       class="fas fa-search"></i></span>
                 </div>
-                <input type="text" class="form-control" placeholder='item....'
-                  id="filter">
+                <input type="text" class="form-control" placeholder='Search....'
+                  id="search-item">
               </div>
 
             </form>
           </div>
         </div>
-
         <!--end of filter buttons -->
         <!-- store  items-->
-        <!-- <ul id="store-search" class="item-list"> -->
-        <div id="resultParent">
-
-          <ul id="result" class="item-list">
-          </ul>
-        </div>
+        <div id="store-search"></div>
         <div class="row" class="store-items" id="store-items">
+
+          <!--end of single store item-->
 
         </div>
       </section>
@@ -215,13 +215,14 @@
       </div>
 
       <!-- jquery -->
-      <script src="/js/jquery-3.3.1.min.js"></script>
+      <script src="./js/jquery-3.3.1.min.js"></script>
       <!-- bootstrap js -->
-      <script src="/js/bootstrap.bundle.min.js"></script>
+      <script src="./js/bootstrap.bundle.min.js"></script>
       <!-- script js -->
-      <script src="/js/app.js"></script>
-      <script src="/js/lightbox.js"></script>
-      <script src="/js/filtre.js"></script>
+      <script src="catalogue.js"></script>
+      <script src="./js/filtre.js"></script>
+      <script src="./js/app2.js"></script>
+      <script src="./js/lightbox.js"></script>
 
     </body>
 
