@@ -3,96 +3,96 @@
         "id": 1,
         "name": "Gold watch",
         "price": 185,
-        "image": "../images/woman_1.jpg",
+        "image": "./images/woman_1.jpg",
         "category": "womanwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Burberry Ref : BU9038 Mouvement : Quartz Cadran : Gold Matière du boîtier : Stainless Steel Bracelet : Stainless Steel Genre : Lady's watch Fonctions : Heure, minute, seconde, date Diamètre du boîtier: 38 mm Année de production : 2020 Etat : Neuf      "
     },
     {
         "id": 2,
         "name": "Brown watch",
         "price": 610.99,
-        "image": "../images/woman_2.jpg",
+        "image": "./images/woman_2.jpg",
         "category": "womanwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Case Material: Stainless Steel Band Material: Stainless Steel Mesh"
     },
     {
         "id": 3,
         "name": "Silver watch",
         "price": 915,
-        "image": "../images/woman_3.jpg",
+        "image": "./images/woman_3.jpg",
         "category": "womanwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Case Material: Stainless Steel Band Material: Stainless Steel Mesh"
     },
     {
         "id": 4,
         "name": "Black Teen",
         "price": 45,
-        "image": "../images/teenager_1.jpg",
+        "image": "./images/teenager_1.jpg",
         "category": "teenwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Montre connectée Android, Montre connectée iOS"
     },
     {
         "id": 5,
         "name": "Black Teen",
         "price": 85,
-        "image": "../images/teenager_2.jpg",
+        "image": "./images/teenager_2.jpg",
         "category": "teenwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Montre connectée Android, Montre connectée iOS"
     },
     {
         "id": 6,
         "name": "Blue Teen",
         "price": 51,
-        "image": "../images/teenager_3.jpg",
+        "image": "./images/teenager_3.jpg",
         "category": "teenwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Montre connectée Android, Montre connectée iOS"
     },
     {
         "id": 7,
         "name": "Black Men Watch",
         "price": 285,
-        "image": "../images/men_1.jpg",
+        "image": "./images/men_1.jpg",
         "category": "menwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "This sleek and minimalist leather strap watch with monochrome indexes and subtle subdials brings functionality to your casual attire"
     },
     {
         "id": 8,
         "name": "Dark Brown Men Watch",
         "price": 965,
-        "image": "../images/men_2.jpg",
+        "image": "./images/men_2.jpg",
         "category": "menwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "This sleek and minimalist leather strap watch with monochrome indexes and subtle subdials brings functionality to your casual attire"
     },
     {
         "id": 9,
         "name": "Brown Men Watch",
         "price": 478,
-        "image": "../images/men_3.jpg",
+        "image": "./images/men_3.jpg",
         "category": "menwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "This sleek and minimalist leather strap watch with monochrome indexes and subtle subdials brings functionality to your casual attire"
     },
     {
         "id": 10,
         "name": "Yellow kid Watch",
         "price": 15,
-        "image": "../images/kid_1.jpg",
+        "image": "./images/kid_1.jpg",
         "category": "kidwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Lovely times video-calling with your kids thanks to the 5 MP high-definition camera on HUAWEI WATCH KIDS 4 Pro"
     },
     {
         "id": 11,
         "name": "Orange kid Watch",
         "price": 26,
-        "image": "../images/kid_2.jpg",
+        "image": "./images/kid_2.jpg",
         "category": "kidwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Lovely times video-calling with your kids thanks to the 5 MP high-definition camera on HUAWEI WATCH KIDS 4 Pro"
     },
     {
         "id": 12,
         "name": "Red kid Watch",
         "price": 43,
-        "image": "../images/kid_3.jpg",
+        "image": "./images/kid_3.jpg",
         "category": "kidwatch",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil cum et quidem aspernatur reprehenderit ut"
+        "description": "Lovely times video-calling with your kids thanks to the 5 MP high-definition camera on HUAWEI WATCH KIDS 4 Pro"
     }
 ]
